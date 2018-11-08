@@ -1,5 +1,5 @@
 ## 概要  
-Qtからpythonを実行し、python側から標準出力を得る  
+Qt(C++)側からpythonを実行し、python側から標準出力を得る  
 <br /> 
 ## テストした時の環境  
  Windows7 64bit  
